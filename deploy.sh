@@ -1,0 +1,1 @@
+scp -P 51204 -r /home/mceum/myproj/arounz/'AROUNZ homepage'/*  mceum@ahading:/home/mceum/arounz/
