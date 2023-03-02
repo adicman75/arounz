@@ -997,9 +997,10 @@ section {
   padding: 0.5rem 0;
 }
 .contact .icons-container .icons p {
-  font-size: 1.5rem;
-  line-height: 2;
-  color: #777;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color:  #444;
 }
 .contact .row {
   display: flex;
