@@ -1092,9 +1092,9 @@ section {
 }
 .faq .accordion-container .accordion .accordion-content {
   padding: 1.5rem;
-  font-size: 1.5rem;
-  line-height: 2;
-  color: #777;
+  font-size: 1.7rem;
+  line-height: 1.5;
+  color: #3a3a3a;
   border-top: 0.1rem solid #1d125d;
   display: none;
 }
@@ -1264,7 +1264,7 @@ section {
   }
   #topbar .top-menu > li > a {
     margin-left: 20px;
-    font-size: 11.5px;
+    font-size: 11px;
   }
   .heading-link4 .hl2 {
     font-size: 3.4rem;
