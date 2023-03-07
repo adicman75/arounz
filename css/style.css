@@ -287,17 +287,19 @@ section {
   text-align: center;
   margin: -25px 0 20px 0;
 }
-.movie {
+/* .movie {
   height: 100%;
   width: 100%;
-    /* border: 1px solid red; */
-}
+    border: 1px solid red;
+} */
 .player{
   padding-top: 56.21%;
-  height: 100%;
-  width: 100%;
+  height: 0;
+  width: 1020px;
   text-align: center;
   position: relative;
+  margin: 0 auto;
+  
   /* border: 1px solid red; */
 }
 .player iframe{
@@ -306,6 +308,7 @@ section {
   top: 0; left: 0;
   width: 100%;
   height: 100%;
+  /* overflow-clip-margin: content-box !important; */
 
 }
 .content2 {
