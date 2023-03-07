@@ -982,10 +982,10 @@ section {
   background: #e0efff;
 }
 .contact .icons-container .icons i {
-  height: 7rem;
-  width: 7rem;
-  line-height: 7rem;
-  font-size: 3rem;
+  height: 6rem;
+  width: 6rem;
+  line-height: 6rem;
+  font-size: 2.7rem;
   border-radius: 50%;
   /* margin-bottom: 0.7rem; */
   color: #fff;
